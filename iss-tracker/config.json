@@ -1,0 +1,11 @@
+{
+    "DEFAULT":{
+        "FROM_EMAIL": "hyungjin9758@gmail.com",
+        "PASSWORD": "Gudwls5864",
+        "TO_EMAIL": "hyungjin5864@gmail.com"
+    },
+    "LOCATION":{
+        "GWANGMYUNG_LAT": 37.478489,
+        "GWANGMYUNG_LNG": 126.864288
+    }
+}
