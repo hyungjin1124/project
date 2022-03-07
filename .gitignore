@@ -3,3 +3,4 @@ exercise-tracker/config.json
 flight-deals-start/config.json
 .DS_Store
 *.pyc
+*.json
